@@ -10,4 +10,4 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL&labelColor=090909)
 
 ## Follow me
-![(Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=2180de&labelColor=eff4f8)
+[![(Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=2180de&labelColor=eff4f8)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
