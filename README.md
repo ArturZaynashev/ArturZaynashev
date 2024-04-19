@@ -9,4 +9,5 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=2180de&labelColor=eff4f8)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL&labelColor=090909)
 
-Follow me
+## Follow me
+![(Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=2180de&labelColor=eff4f8)
