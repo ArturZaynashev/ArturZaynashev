@@ -1,6 +1,6 @@
 [![Header](https://github.com/ArturZaynashev/ArturZaynashev/blob/main/Assets/1674641399428.png)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
-## Привет, в папке "Test" собраны выполненные тестовые задания, их немного, но я буду благодарен за то, что вы дадите мне возможность показать себя и пришлёте своё тестовое задание, спасибо!
+## Привет, в папке "Test" собраны выполненные тестовые задания, их немного, и я буду благодарен за то, что вы дадите мне возможность показать себя и пришлёте своё тестовое задание, спасибо!
 
 ## Языки и Инструменты
 ![(Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
